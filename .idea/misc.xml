@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/service_provider/pom.xml" />
         <option value="$PROJECT_DIR$/service_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/zuul_service/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin_service/pom.xml" />
       </list>
     </option>
   </component>

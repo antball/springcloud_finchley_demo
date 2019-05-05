@@ -9,6 +9,7 @@
         <module name="server_registe_center" />
         <module name="service_consumer" />
         <module name="service_provider" />
+        <module name="zipkin_service" />
         <module name="zuul_service" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="server_registe_center" target="1.8" />
       <module name="service_consumer" target="1.8" />
       <module name="service_provider" target="1.8" />
+      <module name="zipkin_service" target="1.8" />
       <module name="zuul_service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
